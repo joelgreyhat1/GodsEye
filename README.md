@@ -8,3 +8,5 @@ GodsEye is a JavaScript tool that traces Ip addresses with realtime location. It
     npm install
     chmod +x *
     node GodsEye -i <ipaddress>
+# Note
+This is an early version of the programm. I will update its capabilities in later versions.
