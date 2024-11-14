@@ -1,0 +1,30 @@
+{
+  "name": "godseye",
+  "version": "1.0.0",
+  "description": "Track location using the ip address",
+  "main": "GodsEye.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joelgreyhat1/GodsEye.git"
+  },
+  "keywords": [
+    "Joel Greyhat",
+    "GodsEye",
+    "cli-tool"
+  ],
+  "author": "Joel Greyhat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joelgreyhat1/GodsEye/issues"
+  },
+  "homepage": "https://github.com/joelgreyhat1/GodsEye#readme",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "boxen": "^7.0.2",
+    "chalk": "^4.1.2",
+    "commander": "^10.0.1"
+  }
+}
